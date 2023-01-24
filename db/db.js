@@ -45,6 +45,30 @@ export default {
 			color: "7",
 			percentage: "100",
 		},
+		{
+			title: "Frameworks/Libraries",
+			skillName: "Numpy, Pandas, Matplotlib",
+			color: "6",
+			percentage: "100",
+		},
+		{
+			title: "Skills",
+			skillName: "Linear Regression, Machine Learning, A/B Testing, Web Scraping, SVD",
+			color: "2",
+			percentage: "100",
+		},
+		{
+			title: "Cloud Platform",
+			skillName: "GCP, Databricks",
+			color: "3",
+			percentage: "100",
+		},
+		{
+			title: "Tools & Techs",
+			skillName: "Git, Power Apps, 3D modeling",
+			color: "7",
+			percentage: "100",
+		},
 	],
 	projects: {
 		web: [
