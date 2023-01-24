@@ -158,7 +158,7 @@ export default {
 			duration: "Nov 2022 - Present",
 			subtitle: "Data Science Intern",
 			details: [
-				"Working on deriving and implementing (in Python) a coupled tensor+matrix factorization algorithm (SupCP+M) and then to test this algorithm with a multimodal neurodevelopmental dataset that includes EEG, several clinical measures (e.g., birthweight, sex), sociodemographic indicators, and genetic data."
+				"Working on deriving and implementing (in Python) a coupled tensor+matrix factorization algorithm (SupCP+M) and then to test this algorithm with a multimodal neurodevelopmental dataset that includes EEG, several clinical measures (e.g., birthweight, sex), sociodemographic indicators, and genetic data.",
 			],
 			tags: [
 				"Python",
@@ -240,7 +240,7 @@ export default {
 				},
 				{
 					text: "HackerRank",
-					link: "https://www.hackerrank.com/deepak_id1988"
+					link: "https://www.hackerrank.com/deepak_id1988",
 				},
 			],
 		},
@@ -282,7 +282,7 @@ export default {
 			label: "copyright-text",
 			data: [
 				"Made with &hearts; by Deepak Singh.",
-				"&copy; No Copyrights. Feel free to use this template."
+				"&copy; No Copyrights. Feel free to use this template.",
 			],
 		},
 	],
