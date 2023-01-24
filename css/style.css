@@ -519,10 +519,11 @@ body.offcanvas #colorlib-aside {
 	-o-transform: translateX(0);
 	transform: translateX(0);
 	width: 372px;
-	background-color: #f9bf3f;
+	background-color: #71DFE7;
 	z-index: 999;
 	position: fixed;
 }
+/* earlier background-color: #f9bf3f */
 body.offcanvas #colorlib-main,
 body.offcanvas .colorlib-nav-toggle {
 	top: 0;
