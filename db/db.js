@@ -226,33 +226,28 @@ export default {
 	],
 	education: [
 		{
-			title: "Bachelors in Computer Science and Engineering",
+			title: "MBA",
 			duration: "",
-			subtitle: "National Institute of Technology, Warangal",
+			subtitle: "Indian Institute of Management, Calcutta",
 			details: [
-				"Qualified GATE-2020.",
-				"Active Competitive Programmer with CodeChef Rating 1841*.",
-				"Received 500+ stars and 300+ forks on GitHub projects.",
+				"Led the campus team and won 2nd prize at ISB’s Nimble case challenge by Tech Mahindra among 1200+ teams",
+				"Developed Android app for an entrepreneurial bike rides venture across the campus, earned highest revenues among 11 competing ventures",
 			],
 			tags: [
-				"Data Structures & Algorithms",
-				"Operating Systems",
-				"Database Management System",
-				"Computer Networks",
-				"Compiler Designing",
-				"Cloud Computing",
+				"Operating Reesearch",
+				"Economics",
+				"Marketing",
 			],
 			icon: "graduation-cap",
 		},
 		{
-			title: "Class 11-12th in Science and Mathematics",
+			title: "Bachelors of Technology",
 			duration: "",
-			subtitle: "Board of Secondary Education, Rajasthan",
+			subtitle: "Maharshi Dayanand University",
 			details: [
-				"Qualified JEE Advanced, Main & BITSAT.",
-				"Secured 99.5 percentile in Class 12th Boards Examinations.",
+				"Mechanical Engineering",
 			],
-			tags: ["Physics", "Chemistry", "Mathematics"],
+			tags: ["Computer Aided Design", "Automation",],
 			icon: "book",
 		},
 	],
@@ -261,16 +256,16 @@ export default {
 			label: "Dev Profiles",
 			data: [
 				{
-					text: "Stackoverflow",
-					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-				},
-				{
 					text: "GitHub",
-					link: "https://github.com/vinaysomawat",
+					link: "https://github.com/deepsAI8",
 				},
 				{
 					text: "LeetCode",
-					link: "https://leetcode.com/somawatvinay/",
+					link: "https://leetcode.com/dy1988",
+				},
+				{
+					text: "HackerRank",
+					link: "https://www.hackerrank.com/deepak_id1988"
 				},
 			],
 		},
@@ -287,7 +282,7 @@ export default {
 				},
 				{
 					text: "Clone this page",
-					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+					link: "https://github.com/deepsAI8/deepsAI8.github.io",
 				},
 			],
 		},
@@ -296,22 +291,22 @@ export default {
 			data: [
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/vinaysomawat/",
+					link: "https://www.linkedin.com/in/deepaksingh8819/",
 				},
 				{
 					text: "Twitter",
-					link: "https://twitter.com/thesigmakid",
+					link: "https://twitter.com/dsy1988",
 				},
 				{
 					text: "Buy me a coffee",
-					link: "https://www.buymeacoffee.com/r194dME8y",
+					link: "https://www.buymeacoffee.com/deepsai8",
 				},
 			],
 		},
 		{
 			label: "copyright-text",
 			data: [
-				"Made with &hearts; by Vinay Somawat.",
+				"Made with &hearts; by Deepak Singh.",
 				"&copy; No Copyrights. Feel free to use this template."
 			],
 		},
