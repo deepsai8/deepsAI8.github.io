@@ -5,7 +5,7 @@ import { default as data } from "../db/db.js";
 */
 function fetchBlogsFromMedium() {
 	fetch(
-		"https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@vinaysomawat"
+		"https://api.rss2json.com/v1/api.json"
 	)
 		.then((response) => response.json())
 		.then((data) => {
