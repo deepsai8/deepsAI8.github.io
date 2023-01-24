@@ -10,7 +10,7 @@ export default {
 		},
 		contact: {
 			text: [
-				"If you would like to get in touch with me, be it for exploring a technology, a business, or to just say hi, feel free to send me an email. My email address is: deepak.id1988@gmail.com",
+				"If you would like to get in touch with me, be it for exploring a technology, a business, or to just say hi, feel free to send me an email. My email address is: <a href="mailto:deepak.id1988@gmail.com">deepak.id1988@gmail.com</a>",
 			],
 		},
 	},
