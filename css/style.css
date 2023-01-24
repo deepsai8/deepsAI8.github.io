@@ -152,9 +152,10 @@ figure figcaption {
 		-o-transform: translateX(-300px);
 		transform: translateX(-300px);
 		padding-top: 4em;
-		background-color: #f9bf3f;
+		background-color: #71DFE7;
 		height: auto;
 	}
+	/*earlier background-color: #f9bf3f*/
 	.resume-content img {
 		display: none;
 	}
