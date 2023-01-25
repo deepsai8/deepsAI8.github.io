@@ -23,13 +23,13 @@ export default {
 		},
 		{
 			title: "Libraries",
-			skillName: "Numpy, Pandas, Matplotlib, Scikit-learn, Git, Power Apps, 3D modeling",
+			skillName: "numpy, pandas, matplotlib, sklearn, Git",
 			color: "2",
 			percentage: "100",
 		},
 		{
 			title: "Frameworks",
-			skillName: "Linear Regression, Machine Learning, A/B Testing, Web Scraping, SVD",
+			skillName: "LR, ML, A/B Testing, Scraping, SVD",
 			color: "3",
 			percentage: "100",
 		},
