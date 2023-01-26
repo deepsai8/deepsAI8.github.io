@@ -194,6 +194,20 @@ export default {
 	],
 	education: [
 		{
+			title: "Master's in Data Science",
+			duration: "",
+			subtitle: "University of San Francisco, California",
+			details: [
+				"Focus on A/B Testing, Machine Learning, Distributed Computing",
+			],
+			tags: [
+				"A/B Testing",
+				"Machine Learning",
+				"Distributed Computing",
+			],
+			icon: "graduation-cap",
+		},
+		{
 			title: "MBA",
 			duration: "",
 			subtitle: "Indian Institute of Management, Calcutta",
