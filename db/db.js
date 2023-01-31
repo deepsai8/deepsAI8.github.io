@@ -43,106 +43,37 @@ export default {
 	projects: {
 		web: [
 			{
-				projectName: "Programming Diaries",
-				image: "images/programmingdiaries.png",
+				projectName: "Quizzing App",
+				image: "images/quizapp_icon.png",
 				summary:
-					"Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-				preview: "https://programmingdiaries.herokuapp.com/",
+					"Developed a quizzing application that provides a gamified interface for students on any topic",
+				preview: "https://github.com/deepsAI8/Quizapp",
 				techStack: [
-					"Django",
+					"Python",
 					"SQLite",
-					"Bootstrap",
-					"JavaScript",
-					"Heroku",
 				],
 			},
 			{
-				projectName: "Find Your Bank",
-				image: "images/findyourbank.png",
+				projectName: "Cost Estimation",
+				image: "images/dsce_icon.png",
 				summary:
-					"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-				preview: "https://clever-fermi-0d5d76.netlify.app",
-				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
-			},
-			{
-				projectName: "Web Portfolio",
-				image: "images/portfolio.png",
-				summary:
-					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-				preview: "https://github.com/vinaysomawat/Travographer-Portal",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
-			},
-			{
-				projectName: "Resume Builder",
-				image: "images/resume-builder.png",
-				summary:
-					"Browser based editor to build and download Resumes in a customizable templates.",
-				preview: "https://vinaysomawat.github.io/Resume-Builder",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
-			},
-		],
-		software: [
-			{
-				projectName: "Pizza Ordering ChatBot",
-				image: "images/pizzaorderchatbot.png",
-				summary:
-					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-				preview:
-					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-				techStack: ["Dailogflow", "Firebase"],
-			},
-			{
-				projectName: "WhatsApp-Bot",
-				image: "images/whatsappbot.jpg",
-				summary:
-					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-				techStack: ["Selenium", "Chrome Webdriver", "Python"],
-			},
-			{
-				projectName: "Bill Generator",
-				image: "images/billgenerator.png",
-				summary:
-					"GUI to transfer data to excel sheets and generate bills on the local shops.",
-				preview: "https://github.com/vinaysomawat/Bill-Generator",
-				techStack: ["Tkinter", "Openxlpy", "Python"],
+					"Developed a Cost estimation tool for project cost in the piping engineering industry",
+				preview: "https://github.com/deepsAI8/Estimator-Code-Snippets",
+				techStack: [
+					"Python",
+					"SQLite",
+					"javascript",
+				],
 			},
 		],
 		android: [
 			{
 				projectName: "Open-Biking",
-				image: "images/nitwcse.jpg",
+				image: "images/open_biking_512x512_icon",
 				summary:
-					"An android app for bike hiring at campus (as part of Creating and Managing New Ventures coursework)",
+					"An android app for bike hiring at campus (Developed as part of Creating and Managing New Ventures against 11 competing ventures)",
 				preview: "https://github.com/deepsAI8/Open-Biking",
 				techStack: ["C#", "Android", "Python"],
-			},
-			{
-				projectName: "CareerHigh-App",
-				image: "images/carrerhigh.png",
-				summary:
-					"The Application display the webpages of website careerhigh.in in android devices.",
-				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-				techStack: ["JAVA", "XML", "Android"],
-			},
-		],
-		freelance: [
-			{
-				projectName: "SnylloAir.com",
-				image: "images/snylloair.png",
-				summary:
-					"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-				preview: "https://www.snylloair.com/",
-				techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-			},
-			{
-				projectName: "Delivery+",
-				image: "images/AM-Logo-.png",
-				summary:
-					"Android Application to display website in android devices.",
-				preview:
-					"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-				techStack: ["Android", "JAVA", "Play Store"],
 			},
 		],
 	},
@@ -183,12 +114,23 @@ export default {
 		{
 			title: "Hindustan Petroleum Corporation Ltd.",
 			duration: "Jun 2011 - Apr 2017",
-			subtitle: "SDE Intern",
+			subtitle: "Senior Engineer",
 			details: [
 				"Achieved savings of $70k annually by digitizing and implementing an automated invoice validation system to reduce the validation time from 3 days to less than a day",
 				"Transformed monitoring & controlling of capital budget projects worth $500 k, across the organization by developing a standard monitoring tool ",
 			],
 			tags: ["Excel", "Automation", "SQL",],
+			icon: "group",
+		},
+		{
+			title: "Cognizant Technology Solutions",
+			duration: "Feb 2010 - Jun 2011",
+			subtitle: "Programmer Analyst",
+			details: [
+				"Implemented Application Quality Monitoring (API) app, which improved overall product quality to 95% for one of the major insurers in the USA",
+				"Developed a python tool for converting lengthy word docs into page level pdf files with dynamic titles based on page content",
+			],
+			tags: ["Python", "Automation", "Quality",],
 			icon: "group",
 		},
 	],
