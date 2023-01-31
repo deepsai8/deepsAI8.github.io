@@ -44,36 +44,26 @@ export default {
 		web: [
 			{
 				projectName: "Quizzing App",
-				image: "images/quizapp_icon.png",
-				summary:
-					"Developed a quizzing application that provides a gamified interface for students on any topic",
+				image: "images/quizapp_icon.jpg",
+				summary: "Developed a quizzing application that provides a gamified interface for students on any topic",
 				preview: "https://github.com/deepsAI8/Quizapp",
-				techStack: [
-					"Python",
-					"SQLite",
-				],
+				techStack: ["Python","SQLite",],
 			},
 			{
 				projectName: "Cost Estimation",
-				image: "images/dsce_icon.png",
-				summary:
-					"Developed a Cost estimation tool for project cost in the piping engineering industry",
+				image: "images/dsce_icon.jpg",
+				summary: "Developed a Cost estimation tool for project cost in the piping engineering industry",
 				preview: "https://github.com/deepsAI8/Estimator-Code-Snippets",
-				techStack: [
-					"Python",
-					"SQLite",
-					"javascript",
-				],
+				techStack: ["Python","SQLite","javascript",],
 			},
 		],
 		android: [
 			{
 				projectName: "Open-Biking",
-				image: "images/open_biking_512x512_icon",
-				summary:
-					"An android app for bike hiring at campus (Developed as part of Creating and Managing New Ventures against 11 competing ventures)",
+				image: "images/open_biking_512x512_icon.png",
+				summary: "An android app for bike hiring at campus (Developed as part of Creating and Managing New Ventures against 11 other competing ventures)",
 				preview: "https://github.com/deepsAI8/Open-Biking",
-				techStack: ["C#", "Android", "Python"],
+				techStack: ["C#", "Android", "Python",],
 			},
 		],
 	},
