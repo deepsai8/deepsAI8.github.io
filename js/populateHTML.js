@@ -296,7 +296,7 @@ function getElement(tagName,className) {
 
 populateSkills(data.skills, "skills");
 
-fetchBlogsFromMedium();
+// fetchBlogsFromMedium();
 
 populateProjects(data.projects.web, "web-projects");
 // populateProjects(data.projects.software, "software-projects");
