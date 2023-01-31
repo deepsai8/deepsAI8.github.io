@@ -4,7 +4,7 @@ export default {
 			text: [
 				"Hi &#128075;",
 				"I'm Deepak Singh. I’m Master's in Data Science student at the University of San Francisco and currently working as a Data Science Intern at Boston Children's Hospital (Harvard Medical School). I'm graduating in June 2023.",
-				"I'm a firm believer of the logic that 'data' is a catalyst to a 'better world'. I've been a bridge between technology and business, delivering solutions for interesting problems in a wide spectrum of industry space.",
+				"I'm a firm believer of the idea that 'data' is a catalyst to a 'better world'. I've been a bridge between technology and business, delivering solutions for interesting problems in a wide spectrum of industry space.",
 				"I'm a 3d artist at heart, besides being an OpenSource enthusiast. Look me up at Sketchfab (10k+ views) and Itch.io",
 			],
 		},
