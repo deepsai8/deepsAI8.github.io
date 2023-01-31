@@ -110,12 +110,12 @@ export default {
 		],
 		android: [
 			{
-				projectName: "NITW-CSE",
+				projectName: "Open-Biking",
 				image: "images/nitwcse.jpg",
 				summary:
-					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-				preview: "https://github.com/vinaysomawat/NITW-CSE",
-				techStack: ["JAVA", "XML", "Android"],
+					"An android app for bike hiring at campus (as part of Creating and Managing New Ventures coursework)",
+				preview: "https://github.com/deepsAI8/Open-Biking",
+				techStack: ["C#", "Android", "Python"],
 			},
 			{
 				projectName: "CareerHigh-App",
