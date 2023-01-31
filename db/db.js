@@ -57,7 +57,7 @@ export default {
 				techStack: ["Python","SQLite","javascript",],
 			},
 		],
-		android: [
+		software: [
 			{
 				projectName: "Open-Biking",
 				image: "images/open_biking_512x512_icon.png",
@@ -129,39 +129,25 @@ export default {
 			title: "Master's in Data Science",
 			duration: "",
 			subtitle: "University of San Francisco, California",
-			details: [
-				"Focus on A/B Testing, Machine Learning, Distributed Computing",
-			],
-			tags: [
-				"A/B Testing",
-				"Machine Learning",
-				"Distributed Computing",
-			],
+			details: ["Focus on A/B Testing, Machine Learning, Distributed Computing",],
+			tags: ["A/B Testing","Machine Learning","Distributed Computing",],
 			icon: "graduation-cap",
 		},
 		{
 			title: "MBA",
 			duration: "",
 			subtitle: "Indian Institute of Management, Calcutta",
-			details: [
-				"Led the campus team and won 2nd prize at ISB’s Nimble case challenge by Tech Mahindra among 1200+ teams",
+			details: ["Led the campus team and won 2nd prize at ISB’s Nimble case challenge by Tech Mahindra among 1200+ teams",
 				"Developed Android app for an entrepreneurial bike rides venture across the campus, earned highest revenues among 11 competing ventures",
 			],
-			tags: [
-				"Operations Research",
-				"Economics",
-				"Marketing",
-			],
+			tags: ["Operations Research","Economics","Marketing",],
 			icon: "graduation-cap",
 		},
 		{
 			title: "Bachelors of Technology",
 			duration: "",
 			subtitle: "Maharshi Dayanand University",
-			details: [
-				"Mechanical Engineering",
-				"Technical events organizer",
-			],
+			details: ["Mechanical Engineering","Technical events organizer",],
 			tags: ["Computer Aided Design", "Automation",],
 			icon: "book",
 		},
