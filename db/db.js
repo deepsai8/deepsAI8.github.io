@@ -66,6 +66,24 @@ export default {
 				techStack: ["C#", "Android", "Python",],
 			},
 		],
+		android: [
+			{
+				projectName: "Open-Biking",
+				image: "images/open_biking_512x512_icon.png",
+				summary: "An android app for bike hiring at campus (Developed as part of Creating and Managing New Ventures against 11 other competing ventures)",
+				preview: "https://github.com/deepsAI8/Open-Biking",
+				techStack: ["C#", "Android", "Python",],
+			},
+		],
+		freelance: [
+			{
+				projectName: "Open-Biking",
+				image: "images/open_biking_512x512_icon.png",
+				summary: "An android app for bike hiring at campus (Developed as part of Creating and Managing New Ventures against 11 other competing ventures)",
+				preview: "https://github.com/deepsAI8/Open-Biking",
+				techStack: ["C#", "Android", "Python",],
+			},
+		],
 	},
 	experience: [
 		{
