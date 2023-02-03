@@ -656,7 +656,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .hire {
 	padding: 2em;
-	background: #71dfe7; /*#71dfe7 f9bf3f*/
+	background: #17C6B8; /*#17C6B8 #f9bf3f*/
 	color: #000;
 	border-radius: 4px;
 }
@@ -820,7 +820,7 @@ body.offcanvas .colorlib-nav-toggle {
 	position: absolute;
 	display: block;
 	width: 4px;
-	background: #71dfe7; /*#f9bf3f*/
+	background: #17C6B8; /*#f9bf3f*/
 	top: 20px;
 	bottom: 20px;
 	margin-left: 29px;
@@ -866,7 +866,7 @@ body.offcanvas .colorlib-nav-toggle {
 	.timeline-entry
 	.timeline-entry-inner
 	.timeline-icon.color-3 {
-	background: #71dfe7; /*f9bf3f*/
+	background: #17C6B8; /*f9bf3f*/
 }
 .timeline-centered
 	.timeline-entry
@@ -892,7 +892,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
 	position: relative;
-	background: #71dfe7; /*f9bf3f*/
+	background: #17C6B8; /*f9bf3f*/
 	color: #000;
 	padding: 1.5em;
 	margin-left: 60px;
@@ -984,10 +984,10 @@ body.offcanvas .colorlib-nav-toggle {
 	color: #ec5453;
 }
 .services.color-3 {
-	border-bottom: 2px solid #71dfe7; /*f9bf3f*/
+	border-bottom: 2px solid #17C6B8; /*f9bf3f*/
 }
 .services.color-3 .icon2 i {
-	color: #71dfe7; /*f9bf3f*/
+	color: #17C6B8; /*f9bf3f*/
 }
 .services.color-4 {
 	border-bottom: 2px solid #a84cb8;
@@ -1078,7 +1078,7 @@ body.offcanvas .colorlib-nav-toggle {
 	border-color: #ec5453 transparent transparent transparent;
 }
 .services.color-3 .icon {
-	background: #71dfe7; /*f9bf3f*/
+	background: #17C6B8; /*f9bf3f*/
 }
 .services.color-3 .icon:before {
 	border-color: transparent transparent #15C6B8 transparent; /*f9bf3f*/
